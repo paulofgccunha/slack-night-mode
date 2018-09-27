@@ -322,13 +322,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #message_edit_form.focus .emo_menu { color: rgba(230, 230, 230, 0.6); }
 
-#message_edit_form.focus #primary_file_button:not(:hover) { border-color: #252526; }
+#message_edit_form.focus #primary_file_button:not(:hover) { border-color: #424242; }
 
 #message_edit_form.offline #message-input, #message_edit_form.offline #primary_file_button { background-color: #252526 !important; }
 
 #message_edit_form.offline #primary_file_button { border-color: #424242; color: #949494; }
 
-#msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) { border-color: #252526; }
+#msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) { border-color: #424242; }
 
 #msg_form #msg_input { background: padding-box #252526; border-color: #424242; border-left: 0; color: #CCCCCC; }
 
